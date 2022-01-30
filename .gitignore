@@ -1,0 +1,9 @@
+# General
+demo-validator
+
+# MacOS
+.DS_Store
+
+# Golang
+.env
+.idea
